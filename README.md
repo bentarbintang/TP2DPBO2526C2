@@ -120,9 +120,11 @@ Cara menjalankan:
    Alasan Pemilihan & Perbaikan Pewarisan (Inheritance)
    Dalam OOP, inheritance wajib memenuhi aturan "IS-A" (adalah sebuah).
    
-   Mengapa Kendaraan lebih baik dari Transportasi? Kendaraan merujuk pada wujud fisik benda/mesinnya (objek konkret), sedangkan Transportasi lebih merujuk pada sistem atau sektornya (abstrak).
+   Mengapa Kendaraan lebih baik dari Transportasi? Kendaraan merujuk pada wujud fisik benda/mesinnya (objek konkret), sedangkan Transportasi
+lebih merujuk pada sistem atau sektornya (abstrak).
    
-   Mengapa bukan Garuda di akhir? Garuda adalah nama perusahaan/maskapai penerbangan (entitas pemilik), bukan jenis pesawat. Menyebut "Garuda adalah sebuah Pesawat" (Garuda IS-A Pesawat) menyalahi logika OOP. Sebaliknya, "Boeing 737 adalah sebuah Pesawat" sangat tepat secara hierarki. Maskapai (seperti Garuda) lebih cocok dijadikan salah satu atribut di dalam class Pesawat.
+   Mengapa bukan Garuda di akhir? Garuda adalah nama perusahaan/maskapai penerbangan (entitas pemilik), bukan jenis pesawat. Menyebut "Garuda adalah sebuah Pesawat" (Garuda IS-A Pesawat)
+menyalahi logika OOP. Sebaliknya, "Boeing 737 adalah sebuah Pesawat" sangat tepat secara hierarki. Maskapai (seperti Garuda) lebih cocok dijadikan salah satu atribut di dalam class Pesawat.
    ```
 ## 3. Alur Program (Program Flow) 🔄
 
