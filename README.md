@@ -115,6 +115,15 @@ Cara menjalankan:
 ## 2. Diagram 
 <img width="115" height="352" alt="Screenshot 2026-09-26 204633" src="https://github.com/user-attachments/assets/dafa189d-a31c-481e-baf6-05bc3b2edd08" />
 
+   ## Alasan pemilihan class
+   ```
+   Alasan Pemilihan & Perbaikan Pewarisan (Inheritance)
+   Dalam OOP, inheritance wajib memenuhi aturan "IS-A" (adalah sebuah).
+   
+   Mengapa Kendaraan lebih baik dari Transportasi? Kendaraan merujuk pada wujud fisik benda/mesinnya (objek konkret), sedangkan Transportasi lebih merujuk pada sistem atau sektornya (abstrak).
+   
+   Mengapa bukan Garuda di akhir? Garuda adalah nama perusahaan/maskapai penerbangan (entitas pemilik), bukan jenis pesawat. Menyebut "Garuda adalah sebuah Pesawat" (Garuda IS-A Pesawat) menyalahi logika OOP. Sebaliknya, "Boeing 737 adalah sebuah Pesawat" sangat tepat secara hierarki. Maskapai (seperti Garuda) lebih cocok dijadikan salah satu atribut di dalam class Pesawat.
+   ```
 ## 3. Alur Program (Program Flow) 🔄
 
 ### Versi Console (C++, Java, Python)
