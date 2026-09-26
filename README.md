@@ -174,10 +174,12 @@ Bahasa C++
    1. Compile dan isi tabel sebelum ditambah data
 ```
    <img width="769" height="202" alt="Screenshot 2026-09-26 150016" src="https://github.com/user-attachments/assets/f38517d2-69c1-49dc-9c33-07bf4c9ccdea" />
+   
 ```
    2. Menambahkan data
 ```
    <img width="741" height="149" alt="Screenshot 2026-09-26 150034" src="https://github.com/user-attachments/assets/d549988d-7070-48a0-91b8-bb532ba89063" />
+   
 ```
    3. Setelah ditambahkan data
 ```
