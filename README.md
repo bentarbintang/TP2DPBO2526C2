@@ -191,10 +191,12 @@ Bahasa Java
    1. Compile dan isi tabel sebelum ditambah data
 ```
    <img width="773" height="206" alt="Screenshot 2026-09-26 151800" src="https://github.com/user-attachments/assets/e4ce0c65-25b3-4c7e-9d05-aa01e9934a26" />
+   
 ```
    2. Menambahkan data
 ```
    <img width="760" height="138" alt="Screenshot 2026-09-26 200120" src="https://github.com/user-attachments/assets/e2e479b7-e8ad-4e9f-82e5-534459a604b6" />
+   
 ```
    3. Setelah ditambahkan data
 ```
@@ -206,10 +208,12 @@ Bahasa Python
    1. Compile dan isi tabel sebelum ditambah data
 ```
    <img width="757" height="175" alt="Screenshot 2026-09-26 200412" src="https://github.com/user-attachments/assets/65a9b59c-d6d3-4e33-8b42-ebd98bba83dd" />
+   
 ```
    2. Menambahkan data
 ```
    <img width="752" height="138" alt="Screenshot 2026-09-26 200426" src="https://github.com/user-attachments/assets/fc1eee56-e802-4261-aac1-3d5cb9ba1491" />
+   
 ```
    3. Setelah ditambahkan data
 ```
@@ -221,6 +225,7 @@ Bahasa Php
    1. Menjalankan di local host xampp dan isi tabel sebelum ditambahkan data
 ```
    <img width="958" height="327" alt="Screenshot 2026-09-26 204222" src="https://github.com/user-attachments/assets/1aaae837-aa30-4dc7-abda-72ff658ec2c0" />
+   
 ```
    2. Tabel setelah ditambahkan data
 ```
