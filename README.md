@@ -142,9 +142,9 @@ flowchart TD
 ```
 TP2DPBO2526C2/
 ├── Cpp/
-│ ├── Kendaraan.h # deklarasi + implementasi class Kendaraan
-│ ├── Pesawat.h # deklarasi + implementasi class Pesawat
-│ ├── Boeing737.h # deklarasi + implementasi class Boeing737
+│ ├── Kendaraan.cpp # deklarasi + implementasi class Kendaraan
+│ ├── Pesawat.cpp # deklarasi + implementasi class Pesawat
+│ ├── Boeing737.cpp # deklarasi + implementasi class Boeing737
 │ ├── Main.cpp # program utama (menu interaktif)
 │ └── TestCase.cpp # testcase getter/setter & konstruktor
 ├── Java/
@@ -161,17 +161,79 @@ TP2DPBO2526C2/
 │ ├── TestCase.php
 │ └── uploads/ # folder penyimpanan foto_produk hasil upload
 └── Python/
-├── pesawat.py # semua class + program utama
+│   ├── Kendaraan.py
+│   ├── Pesawat.py
+│   ├── Boeing737.py
+│   └── Main.py
 └── test_pesawat.py
 ```
 
 ## 5. Dokumentasi
 ```
 Bahasa C++
+   1. Compile dan isi tabel sebelum ditambah data
+```
+   <img width="769" height="202" alt="Screenshot 2026-09-26 150016" src="https://github.com/user-attachments/assets/f38517d2-69c1-49dc-9c33-07bf4c9ccdea" />
+```
+   2. Menambahkan data
+```
+   <img width="741" height="149" alt="Screenshot 2026-09-26 150034" src="https://github.com/user-attachments/assets/d549988d-7070-48a0-91b8-bb532ba89063" />
+```
+   3. Setelah ditambahkan data
+```
+   <img width="732" height="171" alt="Screenshot 2026-09-26 150045" src="https://github.com/user-attachments/assets/8bb6b40c-1eb8-44bc-aa30-b09e28e40d68" />
 
- 1. Compile dan isi tabel
- <img width="769" height="202" alt="Screenshot 2026-09-26 150016" src="https://github.com/user-attachments/assets/f38517d2-69c1-49dc-9c33-07bf4c9ccdea" />
 
 ```
+Bahasa Java
+   1. Compile dan isi tabel sebelum ditambah data
+```
+   <img width="773" height="206" alt="Screenshot 2026-09-26 151800" src="https://github.com/user-attachments/assets/e4ce0c65-25b3-4c7e-9d05-aa01e9934a26" />
+```
+   2. Menambahkan data
+```
+   <img width="760" height="138" alt="Screenshot 2026-09-26 200120" src="https://github.com/user-attachments/assets/e2e479b7-e8ad-4e9f-82e5-534459a604b6" />
+```
+   3. Setelah ditambahkan data
+```
+   <img width="756" height="164" alt="Screenshot 2026-09-26 200130" src="https://github.com/user-attachments/assets/46621bd5-65ee-4ad7-b460-5cdb0f0a503e" />
+
+
+```
+Bahasa Python
+   1. Compile dan isi tabel sebelum ditambah data
+```
+   <img width="757" height="175" alt="Screenshot 2026-09-26 200412" src="https://github.com/user-attachments/assets/65a9b59c-d6d3-4e33-8b42-ebd98bba83dd" />
+```
+   2. Menambahkan data
+```
+   <img width="752" height="138" alt="Screenshot 2026-09-26 200426" src="https://github.com/user-attachments/assets/fc1eee56-e802-4261-aac1-3d5cb9ba1491" />
+```
+   3. Setelah ditambahkan data
+```
+   <img width="758" height="161" alt="Screenshot 2026-09-26 200434" src="https://github.com/user-attachments/assets/ca73bc5f-017a-4ec8-9006-a64ec945a7ac" />
+
+
+```
+Bahasa Php
+   1. Menjalankan di local host xampp dan isi tabel sebelum ditambahkan data
+```
+   <img width="958" height="327" alt="Screenshot 2026-09-26 204222" src="https://github.com/user-attachments/assets/1aaae837-aa30-4dc7-abda-72ff658ec2c0" />
+```
+   2. Tabel setelah ditambahkan data
+```
+   <img width="937" height="387" alt="Screenshot 2026-09-26 204310" src="https://github.com/user-attachments/assets/6cecbc66-e716-437a-914a-61abe8fd914d" />
+
+
+
+
+
+
+
+   
+
+
+
+
 
 
