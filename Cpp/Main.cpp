@@ -29,10 +29,10 @@ void tampilkanTabel() {
 
     for (size_t i = 0; i < databasePesawat.size(); i++) {
         Boeing737 &p = databasePesawat[i];
-        cout << "| " << left << setw(3) << (i + 1) << " | " << setw(16) << p.maskapaiPemilik << " | "
-            << setw(20) << p.rutePenerbangan << " | " << setw(12) << p.varianSeri << " | "
-            << setw(6) << p.tahunProduksi << " | " << setw(9) << p.kapasitasPenumpang << " | "
-            << setw(12) << p.statusMesin << " |\n";
+        cout << "| " << left << setw(3) << (i + 1) << " | " << setw(16) << p.getMaskapaiPemilik() << " | "
+            << setw(20) << p.getRutePenerbangan() << " | " << setw(12) << p.getVarianSeri() << " | "
+            << setw(6) << p.getTahunProduksi() << " | " << setw(9) << p.getKapasitasPenumpang() << " | "
+            << setw(12) << p.getStatusMesin() << " |\n";
     }
     cout << "----------------------------------------------------------------------------------------------------------\n";
     cout << "Total Data: " << databasePesawat.size() << " Pesawat\n\n";
